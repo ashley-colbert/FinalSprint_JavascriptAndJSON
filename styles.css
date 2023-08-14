@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(225, 222, 222);
+  margin: 30pt;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+li {
+  font-size: 13pt;
+  font: rgb(42, 41, 41);
+  list-style-type: circle;
+  background-color: aliceblue;
+  padding: 3px;
+}
+
+h1 {
+  text-decoration: underline;
+  text-align: center;
+  color: rgb(79, 73, 99);
+}
+
+h2 {
+  color: rgb(79, 73, 99);
+}
+
+h3 {
+  text-decoration: underline;
+  text-align: center;
+  color: rgb(79, 73, 99);
+}

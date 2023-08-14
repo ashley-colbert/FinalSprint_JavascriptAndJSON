@@ -1,0 +1,128 @@
+[
+  {
+    "fName": "Jessie",
+    "lName": "Forde",
+    "phoneNum": "709-444-3333",
+    "curJobTitle": "Teacher",
+    "topTasks": [
+      "Prepare lesson plans",
+      "Deliver lessons",
+      "Collaborate with peers to develop individual plans"
+    ],
+    "targetSalary": 65000,
+    "highestEdu": "Graduate degree",
+    "topSkills": [
+      "Multitasking",
+      "Organized"
+    ],
+    "availDate": "2023-09-01"
+    },
+  {
+    "fName": "John",
+    "lName": "Orion",
+    "phoneNum": "416-000-9999",
+    "curJobTitle": "Bartender",
+    "topTasks": [
+      "Mix drinks",
+      "Serve customers",
+      "Handle cash"
+    ],
+    "targetSalary": 35000,
+    "highestEdu": "college diploma",
+    "topSkills": [
+      "problem solving",
+      "ability to multi-task"
+    ],
+    "availDate": "2023-08-28"
+    },
+  {
+    "fName": "Jordan",
+    "lName": "Bessie",
+    "phoneNum": "780-555-4433",
+    "curJobTitle": "Customer service",
+    "topTasks": [
+      "Serving customers",
+      "Money handling",
+      "Organizing/stocking inventory"
+    ],
+    "targetSalary": 28000,
+    "highestEdu": "high school",
+    "topSkills": [
+      "Organized",
+      "Punctual"
+    ],
+    "availDate": "2023-09-02"
+    },
+  {
+    "fName": "Kate",
+    "lName": "Cline",
+    "phoneNum": "709-555-4444",
+    "curJobTitle": "Secratary",
+    "topTasks": [
+      "Answering phones",
+      "Organize files",
+      "Input customer data"
+    ],
+    "targetSalary": 40000,
+    "highestEdu": "Bachlore degree",
+    "topSkills": [
+      "Top computer skills",
+      "Great interpersonal skills"
+    ],
+    "availDate": "2023-09-15"
+    },
+  {
+    "fName": "Herman",
+    "lName": "Power",
+    "phoneNum": "780-999-0000",
+    "curJobTitle": "Pet Groomer",
+    "topTasks": [
+      "Wash/groom pets",
+      "Clean pet grooming area",
+      "Talk to customer"
+    ],
+    "targetSalary": 24000,
+    "highestEdu": "high school",
+    "topSkills": [
+      "Great time management",
+      "Positive attitude"
+    ],
+    "availDate": "2023-08-30"
+    },
+  {
+    "fName": "Brian",
+    "lName": "Slate",
+    "phoneNum": "709-555-1111",
+    "curJobTitle": "Fitness Pro",
+    "topTasks": [
+      "Teach exercise classes",
+      "Personal trainer",
+      "Nutrician guide"
+    ],
+    "targetSalary": 30000,
+    "highestEdu": "college diploma",
+    "topSkills": [
+      "Highly motivated",
+      "Great work ethic"
+    ],
+    "availDate": "2023-08-30"
+    },
+  {
+    "fName": "Jane",
+    "lName": "Fisher",
+    "phoneNum": "709-777-3333",
+    "curJobTitle": "Factory worker",
+    "topTasks": [
+      "Package goods",
+      "Maintain clean work environment",
+      "Work in fast-paced environment"
+    ],
+    "targetSalary": 37000,
+    "highestEdu": "high school",
+    "topSkills": [
+      "Organized",
+      "Quick learner"
+    ],
+    "availDate": "2023-09-10"
+    }
+]
